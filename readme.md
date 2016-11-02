@@ -6,6 +6,6 @@ to work on Mac.
 
 * Main changes are things with: 
 
-  ** windows.geometry
+  *1. windows.geometry
 
-  ** window.attributes
+  *2. window.attributes
